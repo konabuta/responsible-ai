@@ -1,0 +1,8 @@
+interpret-community==0.18.1
+raiwidgets==0.8.0
+pandas
+lightgbm
+azureml-core
+azureml-interpret
+azureml-dataset-runtime
+ipykernel

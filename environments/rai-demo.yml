@@ -1,20 +1,17 @@
 name: rai-demo
 channels:
-  - defaults
-  - anaconda
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.8
   - pip
-  - notebook
-  - ipykernel
   - pip:
     - interpret
     - raiwidgets
     - pandas
     - interpret-community[visualization]
     - flask_cors
-    - azureml-sdk
-    - azureml-explain-model
-    - azureml-widgets
-    - azureml-interpret
+    - ipykernel
+#     - azureml-core
+#     - azureml-explain-model
+#     - azureml-widgets
+#     - azureml-interpret
