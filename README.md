@@ -13,7 +13,8 @@
 
 ## 環境
 
-- Python 開発環境 (Jupyter Notebook, Visual Studio Code など)
+- Python 開発環境 (JupyterLab, Jupyter Notebook など)
+    - Part1 では JupyterLab もしくは Jupyter Notebook をご利用ください。
 - Miniconda
 - Azure Machine Learning
 
@@ -25,7 +26,7 @@ Azure Machine Learning studio の `コンピューティング` から作成し�
 
 2. GitHub からコードを clone
 
-各開発環境 (JupyterLab, Jupyter, VScode) のターミナル (Terminal) にアクセスして、本リポジトリをクローンします。
+各開発環境 (JupyterLab, Jupyter) のターミナル (Terminal) にアクセスして、本リポジトリをクローンします。
 
 ```bash
 cd Users/<username> # 自分のユーザフォルダに移動
