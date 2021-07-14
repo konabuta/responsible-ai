@@ -34,7 +34,7 @@ git clone https://github.com/konabuta/responsible-ai
 
 3. conda 環境の作成
 
-[0-Setup.ipynb](notebook/0-Setup.ipynb) の記載のコードをターミナル (Terminal) で実行します。Part1, 2, 3 それぞれで必要です。
+[0-Setup.ipynb](notebook/0-Setup.ipynb) に記載のコマンドをターミナル (Terminal) で実行します。Part1, 2, 3 それぞれで必要です。
 
 ## Upcoming
 
