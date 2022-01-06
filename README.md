@@ -1,15 +1,15 @@
 # Responsible AI Workshop
 
-責任のある AI (Responsible AI) のワークショップのコンテンツです。現在は "機械学習モデルの説明・解釈" のみが対象です。
+責任のある AI (Responsible AI) のワークショップのコンテンツです。Responsible AI Toolbox や InterpretML を用います。
 
 ## 機械学習モデルの説明・解釈
 
 オープンソースライブラリ interpret を利用して、機械学習モデルの説明・解釈
 
 - Part0 : [環境準備](notebook/0-Setup.ipynb)
-- Part1 : [Explainable Boosting Machine による解釈性の高いモデル開発](notebook/1-EBM-glassbox.ipynb)
-- Part2 : [Gradient Boosting 回帰モデルの SHAP による説明](notebook/2-interpretml-regression.ipynb)
-- Part3 : [LightGBM 分類モデルの SHAP による説明と Error Analysis + Azure ML](notebook/3-interpretml-erroranalysis-azureml-exp.ipynb)
+- Part1 : [機械学習モデルをデバッグする](notebook/1-responsibleaidashboard-automobile-regression-debugging.ipynb)
+- Part2 : [機械学習モデルで意思決定をサポートする](notebook/2-responsibleaidashboard-house-decision-making.ipynb)
+- Part3 : [解釈可能性の高い機械学習モデルを構築する](notebook/3-interpretml-explainable-boosting-machine.ipynb)
 
 ## 環境
 
