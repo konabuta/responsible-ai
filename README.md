@@ -3,7 +3,7 @@
 責任のある AI (Responsible AI) のワークショップのコンテンツです。
 
 ## コンテンツ
-### Responsible AI Toolkit
+### Responsible AI Toolbox
 
 オープンソースライブラリ [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) を利用して、機械学習モデルのデバッグと機械学習モデルによる意思決定を支援します。
 
