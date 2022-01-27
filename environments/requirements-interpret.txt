@@ -1,0 +1,4 @@
+interpret==0.2.7
+pandas
+ipykernel
+azureml-core==1.37.0.post1
