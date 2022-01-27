@@ -34,7 +34,7 @@
 
 2. Azure Machine Learning の Compute Instance を起動し、Python 環境を構築
 
-- 手順 [setup.ipynb](setup.ipynb) に従って Compute Instance の起動と Python 環境のセットアップを実行します。
+- 手順 [setup.ipynb](notebook/setup.ipynb) に従って Compute Instance の起動と Python 環境のセットアップを実行します。
 
 
 3. GitHub からコードをクローン
