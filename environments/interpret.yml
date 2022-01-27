@@ -1,0 +1,11 @@
+name: raitoolbox
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+    - interpret==0.2.7
+    - pandas
+    - ipykernel
+    - azureml-core==1.37.0.post1

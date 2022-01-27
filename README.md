@@ -1,6 +1,6 @@
 # Responsible AI Workshop
 
-責任のある AI (Responsible AI) のワークショップのコンテンツです。
+責任のある AI (Responsible AI) テクノロジーに関するワークショップのコード集です。
 
 ## コンテンツ
 ### Responsible AI Toolbox
@@ -12,7 +12,7 @@
 - [機械学習モデルで意思決定をサポートする](notebook/responsibleaidashboard-house-decision-making.ipynb)
 
 
-### InterpretML - Interpret
+### InterpretML
 
 オープンソースライブラリ群 [InterpretML](https://interpret.ml/) を利用してモデルの解釈可能性・説明性を導出します。
 
@@ -23,7 +23,7 @@
     - 他の一般的な Python 環境でもオープンソースの利用の範囲であれば実行可能 (テストは未実施)
 - Python 開発ツール (VSCode, JupyterLab, JupyterNotebook など一般的なものを想定)
 - Miniconda
-    - 本ワークショップでは Conda を用いて Python の仮想環境を構築します。
+    - 本ワークショップでは Conda を用いて Python の conda 仮想環境を構築します。
 
 
 ## 事前準備
@@ -42,6 +42,6 @@
 - Compute Instance や利用している開発ツールからターミナル (Terminal) にアクセスして、本リポジトリをクローンします。
 
 ```bash
-pwd # 自分のユーザフォルダ /home/azureuser/cloudfiles/code/Users/_username_ にいることを確認
+pwd # 自分のユーザフォルダ /home/azureuser/cloudfiles/code/Users/<username> にいることを確認
 git clone https://github.com/konabuta/responsible-ai
 ```
