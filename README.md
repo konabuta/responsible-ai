@@ -7,7 +7,7 @@
 
 オープンソースライブラリ [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) を利用して、機械学習モデルのデバッグと機械学習モデルによる意思決定を支援します。
 
-- [環境準備](notebook/0-Setup.ipynb)
+- [環境準備](notebook/setup.ipynb)
 - [機械学習モデルをデバッグする](notebook/responsibleaidashboard-automobile-regression-debugging.ipynb)
 - [機械学習モデルで意思決定をサポートする](notebook/responsibleaidashboard-house-decision-making.ipynb)
 
